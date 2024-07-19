@@ -15,7 +15,7 @@
 int main(void)
 
 {
-	/* you can use delay from next
+	/* you can use duty from next
 	100 90 80 75 70 60 50 40 30 25 20 10 0
 	and any frequency  */
 	
